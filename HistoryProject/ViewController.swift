@@ -11,7 +11,7 @@ final class ViewController: UIViewController {
 
     private let titleLabel: UILabel = {
         let label = UILabel()
-        label.text = "History Aktarımı için Deneme Projesi"
+        label.text = "History Aktarımı için Deneme Projesiiii"
         label.textAlignment = .center
         label.numberOfLines = 0
         
